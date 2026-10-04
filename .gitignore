@@ -1,0 +1,5 @@
+.DS_Store
+
+# Design mockups and renders. GitHub Pages publishes everything in this
+# repo, so keep these out unless you want them live at pckp.net/mockups/.
+mockups/
